@@ -9,12 +9,9 @@ Customer churn is a major challenge for businesses, impacting revenue and growth
 ✔️ Provide recommendations to reduce churn and improve customer retention.
 
 📂 Dataset Information
-Source: Customer churn dataset (Customer Churn.csv).
-Attributes:
 Demographic Details: Gender, senior citizen status, etc.
 Subscription Details: Contract type, tenure, payment method, etc.
 Usage Data: Internet service type, additional features, etc.
-Target Variable: Churn (Yes/No) – Identifies whether a customer left or stayed.
 📊 Exploratory Data Analysis (EDA)
 ✔️ Data Cleaning & Preprocessing
 
@@ -57,8 +54,6 @@ Copy
 Edit
 jupyter notebook
 Open Customer_Churn_Analysis.ipynb and execute the cells step by step.
-🤝 Contribution
-👨‍💻 Contributions are welcome! Feel free to fork this repository, create a pull request, or report issues.
 
 📜 License
 This project is open-source and available under the MIT License.
