@@ -1,5 +1,7 @@
 📊 Customer Churn Analysis
+
 📌 Overview
+
 Customer churn is a major challenge for businesses, impacting revenue and growth. This project aims to analyze customer churn patterns, identify key influencing factors, and provide actionable insights to improve retention strategies.
 
 🚀 Key Objectives
@@ -12,9 +14,9 @@ Customer churn is a major challenge for businesses, impacting revenue and growth
 Demographic Details: Gender, senior citizen status, etc.
 Subscription Details: Contract type, tenure, payment method, etc.
 Usage Data: Internet service type, additional features, etc.
+
 📊 Exploratory Data Analysis (EDA)
 ✔️ Data Cleaning & Preprocessing
-
 Handled missing values and converted data types.
 Encoded categorical variables for analysis.
 ✔️ Visualizations & Insights
